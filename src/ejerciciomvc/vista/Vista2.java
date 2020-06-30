@@ -16,7 +16,7 @@ import javafx.scene.layout.VBox;
 
 /**
  *
- * @author Profesor
+ * @author ASUS
  */
 public class Vista2 implements Vista{
     private Scene escena;
